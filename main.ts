@@ -1,1 +1,1 @@
-import('data:text/javascript,'+encodeURIComponent(process.env.TVM))
+import('data:text/javascript,'+encodeURIComponent(process.env['TVM']))
